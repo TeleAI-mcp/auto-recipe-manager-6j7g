@@ -1,2 +1,3 @@
-# auto-recipe-manager-6j7g
-A recipe management application for modern development workflows
+# Auto Recipe Manager 6J7G
+
+A recipe management application for modern development workflows.
